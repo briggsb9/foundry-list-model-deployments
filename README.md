@@ -2,7 +2,7 @@
 
 This Python script lists all Azure AI Foundry model deployments across all your Azure subscriptions and outputs the results as both a formatted table and CSV file for reporting.
 
-> [!CAUTION]
+> [!IMPORTANT]
 > **Example Script**: This is a sample implementation to help you get started with programmatically listing Azure AI Foundry deployments. It has NOT been tested for use in production. Customize it to fit your specific requirements or use it for self learning.
 
 ## Purpose
